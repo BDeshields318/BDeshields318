@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Brandon DeShields</h1>
 <h3 align="center">A passionate web developer from San Francisco</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/47062079b019114868ece4f3cbd0fd24d402be02be86b84e9652dc218b08b338/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62323434363064323963666232313236616662626137386332623032613064332f74656e6f722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdeshields318&label=Profile%20views&color=0e75b6&style=flat" alt="bdeshields318" /> </p>
 
