@@ -5,7 +5,7 @@
 <h3 align="center">A passionate web developer from San Francisco</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdeshields318&label=Profile%20views&color=0e75b6&style=flat" alt="bdeshields318" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw2V2AmBsj11ysB4q70qo6Zv&ust=1666160027628000&source=images&cd=vfe&ved=2ahUKEwikp_r1j-n6AhWXpWoFHX4tANEQjRx6BAgAEAw" alt="bdeshields318" /> </p>
 
 - 🔭 I’m currently working on [Chess AI](https://github.com/BDeshields318/Chess)
 
