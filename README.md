@@ -3,7 +3,7 @@
 [![MasterHead](https://www.freewebheaders.com/wp-content/gallery/technology-industry-size-1024x300/future-computer-keyboard-keys-web-header_size-1024x300.jpg)](https://bdeshields318.io)
 
 <h1 align="center">Hi 👋, I'm Brandon DeShields</h1>
-<h3 align="center">Programmer from San Francisco</h3>
+<h3 align="center">Web delevoper from Fremont</h3> 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdeshields318&label=Profile%20views&color=0e75b6&style=flat" alt="bdeshields318" /> </p>
